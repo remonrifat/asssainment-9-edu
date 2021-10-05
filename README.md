@@ -1,6 +1,6 @@
 # Welcome to our `OnlineEdu.com` website
 
-Visite my live website [study point](link).
+Visite my live website [https://frosty-kirch-0593e0.netlify.app/](link).
 
 **Site Preview**
 
