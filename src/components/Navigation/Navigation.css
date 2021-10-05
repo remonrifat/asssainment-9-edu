@@ -1,0 +1,10 @@
+.nav-item {
+  text-decoration: none;
+  font-size: 23px;
+  padding: 15px 0;
+  margin-right: 10px;
+  color: rgb(119, 235, 255);
+}
+.nav-item:hover {
+  color: rgb(217, 171, 255);
+}

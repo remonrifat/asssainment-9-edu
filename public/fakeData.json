@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "courseName": "Photography Masterclass: A Complete Guide to Photography",
+    "instructior": "Phil Ebiner",
+    "trainerIMG": "https://img-c.udemycdn.com/course/240x135/1462428_639f_7.jpg",
+    "description": "Regardless of what your level of experience is or what type of camera you use, this in-depth course is designed to provide you with everything you need to take your photography skills to the next level.",
+    "aboutTrainer": "You'll start with the basics and tackle how a camera operates, the types of cameras and lenses available, and equipment you'll need for accomplishing your goals. You'll then dive into the different styles of photography you can focus on.",
+    "price": 40,
+    "duration": 40,
+    "include": [
+      "DSLR photography",
+      "Mirrorless photography",
+      "Event and wedding photography"
+    ],
+    "img": "https://img-c.udemycdn.com/course/240x135/1462428_639f_7.jpg"
+  },
+  {
+    "id": 2,
+    "courseName": "Instagram Marketing 2021: Complete Guide To Instagram Growth",
+    "instructior": "Benjamin Wilson",
+    "trainerIMG": "https://img-c.udemycdn.com/course/240x135/484606_5721_16.jpg",
+    "description": "When making a purchasing decision, people online use your social media presence as a measure of the quality, and trustworthiness of your business. Nothing speaks trust and quality louder than having a thousands of targeted, real, and loving Instagram followers on your profile (of which you can contact at any time!) Your profile will be professional and compelling and you will be using stories, live streaming and all the other new features Instagram releases.",
+    "aboutTrainer": "Have a powerful Instagram account setup for your Business or personal that you can build your brand and convert your followers into paying",
+    "price": 45,
+    "duration": 80,
+    "include": [
+      "Simple marketing",
+      "twitter marketing",
+      "facebook marketing",
+      "Entrepreneur Academy"
+    ],
+    "img": "https://img-c.udemycdn.com/course/240x135/484606_5721_16.jpg"
+  },
+  {
+    "id": 3,
+    "courseName": "Digital Marketing Masterclass",
+    "instructior": "Phil Ebiner",
+    "trainerIMG": "https://img-c.udemycdn.com/course/240x135/1270870_8e95_13.jpg",
+    "description": "Kicking things up a notch from my smash-hit The Complete Android N Developer Course (59,000 students + 8,500 five star ratings) -- my latest course is your fast-track, skip-the-queue ticket to building high-calibre Android apps. Because, let’s face it… you’re busy. You want results. And you don’t have time to hang around. And while you wait for that big idea, developers in the US are making an average of $95,000 a year. Excellent instruction and content. Continuously building apps keeps me engaged and drives the lessons home nicely. So far it's a great tutorial for beginners! You learn a lot of concepts in short videos and hence it's not boring. You get to make a lot of apps which makes it lot more practical and interesting! I'm a senior android developer already but this course has been a huge help in revising all the basics and making the android knowledge foundation even stronger.",
+    "aboutTrainer": "There will be a day when no student will fail just because they don't understand the topics easily; it is my dream. And this is why every day, I am making video tutorials of Computer science-related subjects. By the grace of the Almighty, I am quite successful so far. I have ensured that No HSC students won't go for a private tutor as long as they follow my 400 videos on ICT. For those doing a bachelor in CSE, I have made so many videos on some difficult subjects.",
+    "price": 30,
+    "duration": 120,
+    "include": [
+      "PODCASTING",
+      "GOOGLE ADS",
+      "CONTENT MARKETING",
+      "BRANDING"
+    ],
+    "img": "https://img-c.udemycdn.com/course/240x135/1270870_8e95_13.jpg"
+  },
+  {
+    "id": 4,
+    "courseName": "Facebook Ads & Facebook",
+    "instructior": "COURSE ENVY",
+    "trainerIMG": "https://img-c.udemycdn.com/course/240x135/403314_b091_3.jpg",
+    "description": "What you will learn in this course is original, tested, and very detailed! Learn the Social Media Marketing strategies I implement for my clients daily, including what social media pages are right for you and content management options that will streamline your posting process. This course will also layout how to optimize your Facebook page and Facebook ads therefore enabling you to reach any type of target market! Make the most of social media marketing and make it easy... so you can  get back to what you do best, running your business!",
+    "aboutTrainer": "Want to become a Facebook Ads expert? JOIN THE 500+ COMPANIES I HAVE CONSULTED ON SOCIAL MEDIA MARKETING AND INCREASED CONVERSIONS FOR VIA FACEBOOK AND INSTAGRAM ADS! Facebook Marketing is a REQUIRED skill for anyone with a business, product, service, brand, or public figure they need to PROMOTE!",
+    "price": 50,
+    "duration": 170,
+    "include": [
+      "Advertising managers",
+      "Online marketers and marketing reps",
+      "Small business owners",
+      "ANYONE looking to MASTER Facebook Ads!",
+      "Bloggers"
+    ],
+    "img": "https://img-c.udemycdn.com/course/240x135/403314_b091_3.jpg"
+  },
+  {
+    "id": 5,
+    "courseName": "Complete Web Design: from Figma to Webflow to Freelancing",
+    "instructior": "Andrei Neagoie",
+    "trainerIMG": "https://img-c.udemycdn.com/course/240x135/3227583_5e75_6.jpg",
+    "description": "Having been a self taught programmer, he understands that there is an overwhelming number of online courses, tutorials and books that are overly verbose and inadequate at teaching proper skills. Most people feel paralyzed and don't know where to start when learning a complex subject matter, or even worse, most people don't have $20,000 to spend on a coding bootcamp.",
+    "aboutTrainer": "This brand new course will take you from the very basics where we talk about principles and fundamentals of graphic design, all the way to creating beautiful products, learning about UX/UI and interactions, and creating a full design process for you to use with all of your future projects and clients. ",
+    "price": 20,
+    "duration": 90,
+    "include": [
+      "Sketching",
+      "Sitemaps"
+    ],
+    "img": "https://img-c.udemycdn.com/course/240x135/3227583_5e75_6.jpg"
+  },
+  {
+    "id": 6,
+    "courseName": "Blockchain A-Z™: Learn How To Build Your First Blockchain",
+    "instructior": "Hadelin de Ponteves",
+    "trainerIMG": "https://img-c.udemycdn.com/course/240x135/1594488_69b9.jpg",
+    "description": "The #1 criteria for success in anything is to be fascinated. If you combine your interest in Blockchain with this training, you’ve got everything you need to become an expert in the field - even if you’re unsure where to begin.",
+    "aboutTrainer": " We’re fully committed to making this the most accessible and results-driven Blockchain course on the planet. This requires us to be there when you need our help. That’s why we’ve put together a team of professional Data Scientists to support you in your journey, meaning you’ll get a response from us within 48 hours maximum. ",
+    "price": 80,
+    "duration": 90,
+    "include": [
+      " build a Blockchain",
+      "create a Cryptocurrency ",
+      "create a Smart Contract"
+    ],
+    "img": "https://img-c.udemycdn.com/course/240x135/1594488_69b9.jpg"
+  },
+  {
+    "id": 7,
+    "courseName": "Digital Marketing Strategy - Profitable Sales Funnel Mastery ",
+    "instructior": "Maggie Stara",
+    "trainerIMG": "https://img-c.udemycdn.com/course/240x135/3580509_0077.jpg",
+    "description": "How to measure the success of your marketing efforts and the basics of conversion rate optimisation.How to measure the success of your marketing efforts and the basics of conversion rate optimisation.How to measure the success of your marketing efforts and the basics of conversion rate optimisation",
+    "aboutTrainer": "We will go through all of the ins and outs of creating profitable sales funnels that can help scale your business on autopilot while also giving your target audience an authentic and personalised experience throughout.But I’ve often found that people don’t end up succeeding with their sales funnel because they’re trying to do too much too fast.",
+    "price": 35,
+    "duration": 40,
+    "include": [
+      "successful sales",
+      "Increase the number of customers",
+      "transactions per customer"
+    ],
+    "img": "https://img-c.udemycdn.com/course/240x135/3580509_0077.jpg"
+  },
+  {
+    "id": 8,
+    "courseName": "Digital Marketing Course for Fitness Professionals",
+    "instructior": "Srinidhi Ranganathan",
+    "trainerIMG": "https://img-c.udemycdn.com/course/240x135/4189430_7e5f_3.jpg",
+    "description": "To succeed in the fitness industry or field, your company must stand out from the crowd and competition. That means developing and implementing a solid and proven digital marketing strategy that is powered by Artificial Intelligence (AI). Social media marketing allows you to showcase your skills and expertise while also allowing people to learn about your company. It's a great, low-cost way to get more customers. But manual implementation of the same takes a lot of time, effort and resources.",
+    "aboutTrainer": "Understand first that you need your target audience to find your company before your competitors, which means ranking higher in search engine results becomes a crucial factor. However, marketing your fitness business entails more than just optimising your website for search engines (SEO). You must drive traffic to your website, capture visitors' attention with compelling content, and instil enough trust in your brand so that website visitors easily convert into paying customers or clients",
+    "price": 20,
+    "duration": 60,
+    "include": [
+      "Fitness Trainers ",
+      "automated marketing ",
+      "competition",
+      "Fitness professionals "
+    ],
+    "img": "https://img-c.udemycdn.com/course/240x135/4189430_7e5f_3.jpg"
+  },
+  {
+    "id": 9,
+    "courseName": "Unstoppable Self Confidence - Your Key to Success!",
+    "instructior": "Laja",
+    "trainerIMG": "https://img-c.udemycdn.com/user/200_H/13501438_d2a2_4.jpg",
+    "description": "This course is going to help you build your confidence step by step. It includes 7 major confidence hacks to show how you can take action immediately.This course is going to help you build your confidence step by step. It includes 7 major confidence hacks to show how you can take action immediately",
+    "aboutTrainer": "You can use any one of them at any time or day. You can choose to use these tools in any order you wish, and the more you repeat them, the higher you’ll climb on the ladder of confidence.You can use any one of them at any time or day. You can choose to use these tools in any order you wish, and the more you repeat them, the higher you’ll climb on the ladder of confidence.",
+    "price": 70,
+    "duration": 10,
+    "include": [
+      "lskdfjgn ",
+      "sdfh d",
+      "sdh sth"
+    ],
+    "img": "https://img-c.udemycdn.com/user/200_H/119395996_3862_6.jpg"
+  }
+]
